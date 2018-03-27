@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$USER_HOME$/Downloads/student_download">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$USER_HOME$/Downloads/student_download" />
+            <path value="file://$USER_HOME$/Downloads/student_download/exercises/town_hall_1/text" />
+            <path value="file://$USER_HOME$/Downloads/student_download/exercises/town_hall_1/speakers" />
+            <path value="file://$USER_HOME$/Downloads/student_download/exercises/town_hall_1/styles" />
+            <path value="file://$USER_HOME$/Downloads/student_download/exercises/town_hall_1/images" />
+            <path value="file://$USER_HOME$/Downloads/student_download/exercises/town_hall_1/js" />
+            <path value="file://$USER_HOME$/Downloads/student_download/exercises/town_hall_1/templates" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>
